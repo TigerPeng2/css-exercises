@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(255, 154, 154);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.medium-size {
+    font-size: 24px;
+}
+
+#blue {
+    font-size: 32px;
+    color: blue;
+}
+
+#greenback {
+    background-color: rgb(112, 238, 103);
+}
